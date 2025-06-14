@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+   curso-python/curso-python
+
