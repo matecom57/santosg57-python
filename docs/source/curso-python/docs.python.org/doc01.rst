@@ -12,6 +12,9 @@ Python es un lenguaje de programación potente y fácil de aprender. Cuenta con 
 
 The Python interpreter and the extensive standard library are freely available in source or binary form for all major platforms from the Python web site, https://www.python.org/, and may be freely distributed. The same site also contains distributions of and pointers to many free third party Python modules, programs and tools, and additional documentation.
 
+El intérprete de Python se extiende fácilmente con nuevas funciones y tipos de datos implementados en C o C++ (u otros lenguajes invocables desde C). Python también es adecuado como lenguaje de extensión para aplicaciones personalizables.
+
+
 El intérprete de Python y la extensa biblioteca estándar están disponibles gratuitamente en formato fuente o binario para las principales plataformas en el sitio web de Python, https://www.python.org/, y pueden distribuirse libremente. Este sitio también contiene distribuciones y enlaces a numerosos módulos, programas y herramientas de Python gratuitos de terceros, así como documentación adicional.
 
 
