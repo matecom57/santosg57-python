@@ -21,4 +21,5 @@ Contents
    usage
    api
    curso-python/curso-python
+   curso-python/python.land_python-tutorial/doc01.rst 
 
