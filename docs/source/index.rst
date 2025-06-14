@@ -22,4 +22,5 @@ Contents
    api
    curso-python/curso-python
    curso-python/python.land_python-tutorial/doc01.rst 
+   curso-python/docs.python.org/doc01
 
