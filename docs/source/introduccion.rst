@@ -5,9 +5,19 @@ https://en.wikipedia.org/wiki/Python_%28programming_language%29
 
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[34]
 
+Python es un lenguaje de programación de alto nivel y propósito general. Su filosofía de diseño prioriza la legibilidad del código mediante el uso de una sangría significativa.[34]
+
+
 Python is dynamically type-checked and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming.
 
+Python cuenta con verificación de tipos dinámica y recolección de elementos no utilizados. Admite múltiples paradigmas de programación, incluyendo la programación estructurada (en particular, la procedural), la orientada a objetos y la funcional.
+
+
 Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language, and he first released it in 1991 as Python 0.9.0.[35] Python 2.0 was released in 2000. Python 3.0, released in 2008, was a major revision not completely backward-compatible with earlier versions. Python 2.7.18, released in 2020, was the last release of Python 2.[36]
+
+Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language, and he first released it in 1991 as Python 0.9.0.[35] Python 2.0 was released in 2000. Python 3.0, released in 2008, was a major revision not completely backward-compatible with earlier versions. Python 2.7.18, released in 2020, was the last release of Python 2.[36]
+
+Python se clasifica constantemente como uno de los lenguajes de programación más populares y ha ganado un uso generalizado en la comunidad de aprendizaje automático.[37][38][39][40] Se enseña ampliamente como un lenguaje de programación introductorio.[41] Historia Artículo principal: Historia de Python El diseñador de Python, Guido van Rossum, en PyCon US 2024
 
 Python consistently ranks as one of the most popular programming languages, and it has gained widespread use in the machine learning community.[37][38][39][40] It is widely taught as an introductory programming language.[41]
 History
