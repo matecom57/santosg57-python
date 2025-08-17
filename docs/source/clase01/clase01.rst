@@ -1,7 +1,7 @@
 Introducción al Lenguaje de Programacion con "PYTHON"
 =====================================================
 
-Sistemas de Numeración:
+**Sistemas de Numeración:**
 
 * Números Naturales: :math:`\mathbb{N} = \{ 1, 2, 3, ... \}`
 
@@ -13,4 +13,12 @@ Sistemas de Numeración:
 
 * Números Reales: :math:`\mathbb{R} = \mathbb{Q} \bigcup \mathbb{I}`
  
+**Operadores de Comparación**
+
+* :math:`< \leq, >, \geq, ==, !=`
+
+**Operadores Lógicos**
+
+* and, or
+
 
