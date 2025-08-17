@@ -13,12 +13,13 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
---------
+Contenido
+----------
 
 .. toctree::
 
-   usage
+   instalacion/instalacion
+
    api
    curso-python/curso-python
    curso-python/python.land_python-tutorial/doc01.rst 
