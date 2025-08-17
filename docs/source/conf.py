@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'santosg57-python'
+copyright = '2025, santosg57, santosg572@gmail.com'
+author = 'santosg57'
 
 release = '0.1'
 version = '0.1.0'
