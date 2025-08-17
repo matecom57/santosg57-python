@@ -9,5 +9,8 @@ Sistemas de Numeración:
 
 * Números Racionales: :math:`\mathbb{Q} = \{ \frac{p}{q} | p, q \in \mathbb{Z} \text{ y } q \neq 0  \}`
 
+* Números Irracionales: :math:`\mathbb{I} = \{ \pi, -sqrt{2}, e, ......  \}`
 
+* Números Reales: :math:`\mathbb{R} = \mathbb{Q} \bigcup \mathbb{I}`
+ 
 
