@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Introducción al Lenguaje de Programación con "PYTHON"
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
