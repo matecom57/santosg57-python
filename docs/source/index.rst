@@ -1,15 +1,13 @@
 Introducción al Lenguaje de Programación con "PYTHON"
 ===================================
 
-Este curso proporcionará un conjunto de instrucciones (comandos)  necesarios para que nuestro
-computador resuelva problemas numéricos o problemas que se puedan implementar algoritmicamente.
- 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Este curso proporcionará un conjunto de instrucciones (comandos) que son necesarios para escribir programas de computo
+para resolver cuaquier problema que se pueda implementar en lenguaje de programación ``Python``.
+
 
 .. note::
 
-   Este proyecto está en desarrollo activo.
+   Este curso está en desarrollo activo.
 
 
 Contenido
@@ -17,6 +15,8 @@ Contenido
 
 .. toctree::
 
-   instalacion/instalacion
+   tiempos_recordar/tiempos_recordar
+   Bajar el software de Python `AQUÍ <https://www.python.org/downloads/>`_
+
    clase01/clase01
 
