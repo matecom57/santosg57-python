@@ -17,7 +17,7 @@ Contenido
 
    tiempos_recordar/tiempos_recordar
    `Temario <Temario_Python_INB.pdf>`_
-   bibliografia
+   bibliografia/bibliografia
    software
    conceptos_matematicos
 
