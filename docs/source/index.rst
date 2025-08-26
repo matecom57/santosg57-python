@@ -18,7 +18,6 @@ Contenido
    tiempos_recordar/tiempos_recordar
    Bajar el software de Python `AQUÍ <https://www.python.org/downloads>`_
    to `register for a free account <https://github.com/signup>`_ before you start.
-   :doc:`Temario_Python_INB.pdf`
    conceptos_matematicos
 
 
