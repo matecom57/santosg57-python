@@ -17,6 +17,6 @@ Contenido
 
    tiempos_recordar/tiempos_recordar
    Bajar el software de Python :doc:`AQUÍ <https://www.python.org/downloads/>`_
+   conceptos_matematicos
 
-   clase01/clase01
 
