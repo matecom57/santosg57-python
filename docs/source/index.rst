@@ -16,6 +16,7 @@ Contenido
 .. toctree::
 
    tiempos_recordar/tiempos_recordar
-   Bajar el software de Python `AQUÍ <https://www.python.org/downloads>`_
+   Bajar el software de Python 
+   `AQUÍ <https://www.python.org/downloads>`_
 
 
