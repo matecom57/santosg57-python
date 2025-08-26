@@ -1,6 +1,8 @@
 Bibliografia
 ============
 
+* `Temario <Temario_Python_INB.pdf>`_
+
 .. image:: b01.png	
 
 .. image:: b02.png
