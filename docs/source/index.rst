@@ -17,6 +17,7 @@ Contenido
 
    tiempos_recordar/tiempos_recordar
    Bajar el software de Python `AQUÍ <https://www.python.org/downloads/>`_
+   :doc:`Temario_Python_INB.pdf`
    conceptos_matematicos
 
 
