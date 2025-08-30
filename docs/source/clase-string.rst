@@ -90,6 +90,9 @@ Algunos métodos de la clase string:
 
    type(ww)
 
+   for ss in ww:
+     print(ss)
+
 
 
  
