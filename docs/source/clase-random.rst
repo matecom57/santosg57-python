@@ -27,6 +27,8 @@ Algunos métodos y ejemplos:
    print(ss)
    type(ss)
 
+   random.uniform(1,10)
+
 
     
 
