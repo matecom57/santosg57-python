@@ -17,6 +17,12 @@ Algunos métodos y ejemplos:
 
    random.gauss()
 
+   round(random.gauss(),2)
+
+   random.randint(1,100)
+
+   random.random()
+
 
  
 
