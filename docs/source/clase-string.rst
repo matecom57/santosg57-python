@@ -28,7 +28,6 @@ Algunos métodos de la clase string:
 
 
 **Ya no se encantarán mis ojos en tus ojos,**
-
 **ya no se endulzará junto a ti mi dolor.**
 
 Pero hacia donde vaya llevaré tu mirada
