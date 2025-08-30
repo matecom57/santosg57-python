@@ -41,6 +41,10 @@ Algunos métodos y ejemplos:
 
    turtle.pensize(3)
    turtle.fd(20)
+   turtle.left(90)
+   turtle.fd(20)
+   turtle.left(45)
+   turtle.fd(30)
 
 
 
