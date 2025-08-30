@@ -21,6 +21,7 @@ Contenido
    software
    conceptos_matematicos
    trabajo-iterativo
+   clase-random
    clase-string
    clase-turtle
 
