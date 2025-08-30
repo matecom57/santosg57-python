@@ -21,5 +21,6 @@ Contenido
    software
    conceptos_matematicos
    trabajo-iterativo
+   clase-string
 
 
