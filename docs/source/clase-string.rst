@@ -28,7 +28,7 @@ Algunos métodos de la clase string:
 
 .. code:: Python
 
-   pp = '''Ya no se encantarán mis ojos en tus ojos,
+   pp = '''ya no se encantarán mis ojos en tus ojos,
    ya no se endulzará junto a ti mi dolor.
 
    Pero hacia donde vaya llevaré tu mirada
@@ -50,6 +50,10 @@ Algunos métodos de la clase string:
 .. code:: Python
  
    len(pp)
+
+   pp.capitalize()
+
+   pp.count('corazón')
 
 
 
