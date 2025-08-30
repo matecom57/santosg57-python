@@ -27,8 +27,9 @@ Algunos métodos de la clase string:
 ``'capitalize', 'casefold', 'center', 'count', 'encode', 'endswith', 'expandtabs', 'find', 'format', 'format_map', 'index', 'isalnum', 'isalpha', 'isascii', 'isdecimal', 'isdigit', 'isidentifier', 'islower', 'isnumeric', 'isprintable', 'isspace', 'istitle', 'isupper', 'join', 'ljust', 'lower', 'lstrip', 'maketrans', 'partition', 'removeprefix', 'removesuffix', 'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit', 'rstrip', 'split', 'splitlines', 'startswith', 'strip', 'swapcase', 'title', 'translate', 'upper', 'zfill'``
 
 
-**Ya no se encantarán mis ojos en tus ojos,
-ya no se endulzará junto a ti mi dolor.
+**Ya no se encantarán mis ojos en tus ojos,**
+
+**ya no se endulzará junto a ti mi dolor.**
 
 Pero hacia donde vaya llevaré tu mirada
 y hacia donde camines llevarás mi dolor.
