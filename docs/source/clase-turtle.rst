@@ -18,6 +18,27 @@ Algunos métodos y ejemplos:
    turtle.back(20)
    turtle.circle(20)
 
+.. code:: Python
+
+   turte.clear()
+
+.. code:: Python
+
+   turtle.up()
+   turtle.goto(40,30)
+   turtle.down()
+   turtle.circle(20)
+   turtle.up()
+   turtle.goto(20,60)
+   turtle.down()
+   turtle.circle(20)
+
+
+
+
+
+
+
 
       
 
