@@ -31,6 +31,18 @@ Algunas operaciones:
    1.0
    >>> 
 
+.. code:: Bash
+
+   >>> 3 == 3.0
+   True
+   >>> 3 == 3.0000000000
+   True
+   >>> 3 == 3.00000000001
+   False
+   >>> 9 <= 8.999999999999999
+   False
+
+
 Hacer los siguientes calculos:
 
 1)
