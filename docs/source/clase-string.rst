@@ -53,7 +53,37 @@ Algunos métodos de la clase string:
 
    pp.capitalize()
 
+   pp.count('m')
+
+   pp.count('mi')
+
    pp.count('corazón')
 
+   pp.count('\n')
 
+   pp.count('x')
+
+.. code:: Python
+
+   pp.find('x')
+
+   pp.find('ojos')
+
+   pp.find('ojos', 25)
+
+   pp.find('ojos', 37)
+
+   pp.islower()
+
+   pp.lower()
+
+   pp.replace('\n', ' ')
+
+   yy = pp.replace('Ya no se', 'Para tí mi Dulcinea: \n\n Ya no se')
+   print(yy)
+
+
+
+
+ 
 
