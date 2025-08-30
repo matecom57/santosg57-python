@@ -31,7 +31,11 @@ Algunos métodos y ejemplos:
    turtle.up()
    turtle.goto(20,60)
    turtle.down()
-   turtle.circle(20)
+   turtle.circle(30)
+   turtle.up()
+   turtle.goto(-20,60)
+   turtle.down()
+   turtle.circle(10)
 
 
 
