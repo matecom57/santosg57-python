@@ -93,6 +93,13 @@ Algunos métodos de la clase string:
    for ss in ww:
      print(ss)
 
+   ww[2]
+
+   ww[4]
+
+   ww[-1]
+
+
 
 
  
