@@ -59,7 +59,14 @@ Trabajando con el módulo ``math``
    >>> math.sin(math.pi/2)
    1.0
 
+Hacer los siguientes calculos:
 
+1) Calcule área y perímetro de un círculo de radio 2.
+
+2) Dado un triángulo rectángulo cuyos catetos miden 3 y 4 unidades respectivamente. Calcule la hipotenusa y los 
+ángulos interiores del triángulo.
+
+3.  
 
 
 
