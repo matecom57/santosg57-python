@@ -11,4 +11,31 @@ Trabajo Iterativo
    Type "help", "copyright", "credits" or "license" for more information.
    >>> 
 
+Algunas operaciones:
+
+.. code:: Bash
+
+   >>> 5+6
+   11
+   >>> 5**2
+   25
+   >>> (5*4)/2
+   10.0
+   >>> 
+
+.. code:: Bash
+
+   >>> x = 1/2
+   >>> y = 2
+   >>> x*y
+   1.0
+   >>> 
+
+.. math::
+
+   x = 1+\frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \frac{1}{5}
+
+
+
+
 
