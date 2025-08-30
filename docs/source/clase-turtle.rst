@@ -10,7 +10,7 @@ Clase turtle
 
 Algunos métodos y ejemplos:
 
-.. code::Python
+.. code:: Python
 
    import turtle
 
