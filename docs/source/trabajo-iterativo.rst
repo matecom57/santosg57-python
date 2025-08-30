@@ -46,6 +46,19 @@ Hacer los siguientes calculos:
    x = 1+\frac{1}{2} + \frac{1}{2^2} + \frac{1}{2^3} + \frac{1}{2^4} + \frac{1}{2^5}
 
 
+Trabajando con el módulo ``math``
+
+.. code:: Bash
+
+   >>> math.sqrt(1024)
+   32.0
+
+   >>> math.log10(1000)
+   3.0
+
+   >>> math.sin(math.pi/2)
+   1.0
+
 
 
 
