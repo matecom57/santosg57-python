@@ -82,6 +82,13 @@ Algunos métodos de la clase string:
    yy = pp.replace('Ya no se', 'Para tí mi Dulcinea: \n\n Ya no se')
    print(yy)
 
+   ww = pp.split('\n')
+
+   ww
+
+   len(ww)
+
+   type(ww)
 
 
 
