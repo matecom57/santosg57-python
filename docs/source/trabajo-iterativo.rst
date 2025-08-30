@@ -31,9 +31,20 @@ Algunas operaciones:
    1.0
    >>> 
 
+Hacer los siguientes calculos:
+
+1)
+
 .. math::
 
    x = 1+\frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \frac{1}{5}
+
+2)
+
+.. math::
+
+   x = 1+\frac{1}{2} + \frac{1}{2^2} + \frac{1}{2^3} + \frac{1}{2^4} + \frac{1}{2^5}
+
 
 
 
