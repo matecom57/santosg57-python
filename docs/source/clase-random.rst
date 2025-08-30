@@ -23,7 +23,11 @@ Algunos métodos y ejemplos:
 
    random.random()
 
+   ss = sample(['red', 'blue'], counts=[4, 2], k=5)
+   print(ss)
+   type(ss)
 
- 
+
+    
 
 
