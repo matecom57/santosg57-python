@@ -20,5 +20,6 @@ Contenido
    bibliografia/bibliografia
    software
    conceptos_matematicos
+   trabajo-iterativo
 
 
