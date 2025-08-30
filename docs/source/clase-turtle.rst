@@ -37,6 +37,11 @@ Algunos métodos y ejemplos:
    turtle.down()
    turtle.circle(10)
 
+.. code:: Python
+
+   turtle.pensize(3)
+   turtle.fd(20)
+
 
 
 
