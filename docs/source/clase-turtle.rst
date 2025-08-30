@@ -14,5 +14,10 @@ Algunos métodos y ejemplos:
 
    import turtle
 
-   
+   turtle.bgcolor('red')
+   turtle.back(20)
+   turtle.circle(20)
+
+
+      
 
