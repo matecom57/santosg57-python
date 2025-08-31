@@ -22,6 +22,10 @@ Algunos Ejemplos:
 
    math.cos(math.pi/2)
 
+   math.log10(1000)
+
+   math.sqrt(1024)
+
 
 
 
