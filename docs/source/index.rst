@@ -26,5 +26,6 @@ Contenido
    clase-turtle
    clase-math
    michael-spivak
+   calculo-diferencial-integral
 
 
