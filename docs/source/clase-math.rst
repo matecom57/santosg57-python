@@ -18,6 +18,10 @@ Algunos Ejemplos:
 
    math.pi
 
+   math.sin(math.pi/2)
+
+   math.cos(math.pi/2)
+
 
 
 
