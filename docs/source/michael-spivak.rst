@@ -3,7 +3,7 @@ Cálculo
 
 Calcular lo siguiente:
 
-:math:`\sum_{i=1}^100 (2i-1)^2`
+:math:`\sum_{i=1}^{100} (2i-1)^2`
 
 Para :math:`r=\frac{1}{2}`. Calcular
 
