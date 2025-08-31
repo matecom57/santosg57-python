@@ -24,5 +24,6 @@ Contenido
    clase-random
    clase-string
    clase-turtle
+   clase-math
 
 
