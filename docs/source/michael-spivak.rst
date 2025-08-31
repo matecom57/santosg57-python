@@ -13,4 +13,10 @@ Para :math:`r=\frac{1}{2}`. Calcular
 
    \sum_{i=0}^100 r^n
 
+Graficar las función en el intervalo [-5, 5]
+
+.. math::
+
+   f(x) = x \sin 1/x
+
 
