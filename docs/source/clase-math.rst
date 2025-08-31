@@ -14,6 +14,8 @@ Algunos Ejemplos:
 
 .. code:: Python
 
+   import math
+
    math.pi
 
 
