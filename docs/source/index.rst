@@ -17,6 +17,7 @@ Contenido
 
    tiempos_recordar/tiempos_recordar
    temario
+   calificaciones
    bibliografia/bibliografia
    software
    conceptos_matematicos
