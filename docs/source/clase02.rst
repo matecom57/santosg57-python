@@ -76,10 +76,19 @@ Si quieres o necesitas que un string ocupe más de una línea, entonces debes en
 .. code:: Python
 
    s = '''
-   ... Este string
-   ...    ocupa más
-   ...     de
-   ...  una línea'''
+   Este string
+   ocupa más
+   de
+   una línea'''
+
+Concatenando string's
+
+.. code:: Python
+
+   hola = 'hola'
+   s = hola + '  Mundo'
+
+
 
 
 
