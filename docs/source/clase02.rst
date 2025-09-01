@@ -42,3 +42,44 @@ Ejemplos.
    
    8 // 2
 
+Ejemplos 2
+
+.. code:: Python
+
+   3 == 3
+
+   3 > 3
+
+   3 > 3 and 4 > 3
+
+   3 > 3 or 4 > 3
+
+   not 3 == 3 or 3 < 4
+
+Cadenas de Caracteres o Strings
+
+.. code:: Python
+
+   s1 = 'Hola Mundo'
+
+Es lo mismo
+
+.. code:: Python
+
+   s2 = "Hola Mundo"
+
+   type(s2)
+
+Si quieres o necesitas que un string ocupe más de una línea, entonces debes encerrar el texto entre tres comillas simples '''...''' o dobles 
+"""...""".
+
+.. code:: Python
+
+   s = '''
+   ... Este string
+   ...    ocupa más
+   ...     de
+   ...  una línea'''
+
+
+
