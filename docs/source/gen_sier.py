@@ -10,8 +10,15 @@ niter = 3
 
 
 for i in range(niter):
+  tem = ''
   for s in ss:
-    if
+    if s == 'F':
+      tem = tem + r1
+    elif s == 'G'
+      tem = tem + r2
+    else:
+      tem = tem + s
+  ss = tem  
 
 
  for s in ss:
