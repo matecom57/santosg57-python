@@ -16,7 +16,7 @@ Contenido
 .. toctree::
 
    tiempos_recordar/tiempos_recordar
-   "Temario" `Temario <Temario_Python_INB.pdf>`_
+   temario
    bibliografia/bibliografia
    software
    conceptos_matematicos
