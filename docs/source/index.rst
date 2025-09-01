@@ -21,6 +21,7 @@ Contenido
    bibliografia/bibliografia
    software
    conceptos_matematicos
+   clase02
    trabajo-iterativo
    clase-random
    clase-string
