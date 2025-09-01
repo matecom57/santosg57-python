@@ -1,5 +1,4 @@
 Temario
 =======
 
-`Temario <Temario_Python_INB.pdf>`_
-
+`Temario <Temario_Python_INB.pdf>`
