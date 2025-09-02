@@ -48,7 +48,14 @@ Si la condición ``cond`` es distito de cero entonces ejecua las in* strucciones
 
    if False:
      print('bien, bien')
-   else
+   else:
      print('mal, mal')
 
-
+.. code:: Python
+     
+   if False:
+     print('bien, bien')
+   elif True:
+     print('bien2, bien2')
+   else:
+     print('mal, mal')
