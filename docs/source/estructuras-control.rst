@@ -7,7 +7,7 @@ Las estructuras de control sirven para dos propositos fundamentales en la progra
 
 2. Repetir la ejecución varias veces de una serie de intrucciones.
 
-**Estructura** ``ìf```, ``if-esle``, ``if-elif-else``
+**Estructura** ``ìf``, ``if-esle``, ``if-elif-else``
  
 .. code:: Bash
 
@@ -16,6 +16,24 @@ Las estructuras de control sirven para dos propositos fundamentales en la progra
      inst2
      ...
      instn
+
+Si la condición ``cond`` es es distinto de cero entonces ejecuta la serie de instruccioones, de otro modo no las ejecuta.
+
+.. code:: Bash
+
+   if cond:
+     inst1
+     inst2
+     ...
+     instn
+   else:
+     jinst1
+     jinst2
+     ...
+     jinstn 
+
+
+Si la condición ``cond`` es distito de cero entonces ejecua las in* strucciones de otro modo ejecuta las jin* strucciones.
 
 
 
