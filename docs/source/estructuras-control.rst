@@ -35,5 +35,20 @@ Si la condición ``cond`` es es distinto de cero entonces ejecuta la serie de in
 
 Si la condición ``cond`` es distito de cero entonces ejecua las in* strucciones de otro modo ejecuta las jin* strucciones.
 
+**Algunos ejemplos**
+
+1)
+
+.. code:: Python
+
+   if 10**(-6):
+     print('bien, bien')
+
+.. code:: Python
+
+   if False:
+     print('bien, bien')
+   else
+     print('mal, mal')
 
 
