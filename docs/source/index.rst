@@ -29,5 +29,6 @@ Contenido
    clase-math
    michael-spivak
    calculo-diferencial-integral
+   estructuras-control
 
 
