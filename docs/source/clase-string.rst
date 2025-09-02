@@ -26,6 +26,41 @@ Algunos métodos de la clase string:
 
 ``'capitalize', 'casefold', 'center', 'count', 'encode', 'endswith', 'expandtabs', 'find', 'format', 'format_map', 'index', 'isalnum', 'isalpha', 'isascii', 'isdecimal', 'isdigit', 'isidentifier', 'islower', 'isnumeric', 'isprintable', 'isspace', 'istitle', 'isupper', 'join', 'ljust', 'lower', 'lstrip', 'maketrans', 'partition', 'removeprefix', 'removesuffix', 'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit', 'rstrip', 'split', 'splitlines', 'startswith', 'strip', 'swapcase', 'title', 'translate', 'upper', 'zfill'``
 
+**Ayuda**
+
+.. code:: Bash
+
+
+   capitalize() method of builtins.str instance
+       Return a capitalized version of the string.
+
+       More specifically, make the first character have upper case and the rest lower
+       case.
+
+   count(sub[, start[, end]], /) method of builtins.str instance
+       Return the number of non-overlapping occurrences of substring sub in string S[start:end].
+
+   find(sub[, start[, end]], /) method of builtins.str instance
+       Return the lowest index in S where substring sub is found, such that sub is contained within S[start:end].
+
+   index(sub[, start[, end]], /) method of builtins.str instance
+       Return the lowest index in S where substring sub is found, such that sub is contained within S[start:end].
+
+   lower() method of builtins.str instance
+       Return a copy of the string converted to lowercase.
+
+   replace(old, new, /, count=-1) method of builtins.str instance
+       Return a copy with all occurrences of substring old replaced by new.
+
+   split(sep=None, maxsplit=-1) method of builtins.str instance
+       Return a list of the substrings in the string, using sep as the separator string.
+
+       sep
+         The separator used to split the string.
+
+**Ejemplos**
+
+
 .. code:: Python
 
    pp = '''ya no se encantarán mis ojos en tus ojos,
