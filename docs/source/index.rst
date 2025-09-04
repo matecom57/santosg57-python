@@ -30,5 +30,5 @@ Contenido
    michael-spivak
    calculo-diferencial-integral
    estructuras-control
-
+   ejercicios_sep0425
 
