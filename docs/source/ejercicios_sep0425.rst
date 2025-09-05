@@ -6,6 +6,13 @@ Ejercicios-sep0425
 
 2. Realice una tabla de frecuencias de los caracteres que estan contenidos en la siguiente cadena de caracteres.
 
+3. Calcular la integral sigiente:
+
+.. math::
+
+   I = \int_1^4 (1-x^2) dx
+
+
 
 
 
