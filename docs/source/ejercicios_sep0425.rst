@@ -5,7 +5,7 @@ Ejercicios-sep0425
 
 2. Realice una tabla de frecuencias de los caracteres que estan contenidos en la siguiente cadena de caracteres.
 
-3. Calcular la integral sigiente:
+3. Calcular la integral siguiente:
 
 .. math::
 
