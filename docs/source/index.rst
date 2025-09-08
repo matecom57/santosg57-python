@@ -30,5 +30,6 @@ Contenido
    michael-spivak
    calculo-diferencial-integral
    estructuras-control
+   clase_sep0825
 
 
