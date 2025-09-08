@@ -30,9 +30,9 @@ Contenido
    michael-spivak
    calculo-diferencial-integral
    estructuras-control
-   ejercicios_sep0425
 
 Clase - sep0825
+---------------
 
 .. toctree::
 
