@@ -18,11 +18,11 @@ Ejemplos_sep2825
 
 2)
 
-Dados lss siguientes series de puntos, encontrar la mejor recta :math:`y= \beta_0 + \beta_1 x`. Donde:
+Dados las siguientes series de puntos, encontrar la mejor recta :math:`y= \beta_0 + \beta_1 x`. Donde:
 
 .. math:
 
-   \beta_1 = \frac{\sum_{i=1}^n x_iy_i - n \bar{x}\bar{y}}{\sum_{i=1}^n x_i^2 - \frac{1}{n} (\sum_{i=1}^n x_i)^2}
+   \beta_1 = \frac{\sum_{i=1}^n x_iy_i - n \bar{x} \bar{y}}{\sum_{i=1}^n x_i^2 - \frac{1}{n} (\sum_{i=1}^n x_i)^2}
 
    \beta_0 = \bar{y} - \beta_1 \bar{x}
 
