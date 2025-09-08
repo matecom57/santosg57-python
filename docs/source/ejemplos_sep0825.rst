@@ -1,7 +1,11 @@
 Ejemplos_sep2825
 ====================
 
-**1)**
+**1)** 
+
+A partir del siguiente codigo, generar 50 círculos aleatorios en la región [-100, 100]x[-100, 100]. Cuyos 
+radios varian entre 10 a 20 unidades y color varia en {'red', 'blue', 'green', 'black'}.
+
 
 .. code:: Python
 
@@ -39,4 +43,6 @@ Calcular la integral siguiente en el intervalo [-1,3].
 
    \int_{-1}^3 (4-(x-1)^2) dx
 
+**4)**
 
+Convertir el número decimal 1024 a número binario y el número binario 110101 a número decimal. 
