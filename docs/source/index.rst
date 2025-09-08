@@ -32,3 +32,9 @@ Contenido
    estructuras-control
    ejercicios_sep0425
 
+Clase - sep0825
+
+.. toctree::
+
+   listas
+
