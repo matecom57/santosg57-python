@@ -18,7 +18,7 @@ Ejemplos_sep2825
 
 2)
 
-Dados lss siguientes series de puntos, encontrar la mejor recta :mat:`y= \beta_0 + \beta_1 x`. Donde:
+Dados lss siguientes series de puntos, encontrar la mejor recta :math:`y= \beta_0 + \beta_1 x`. Donde:
 
 .. math:
 
