@@ -9,6 +9,7 @@ Medidas de tendencia central:
 
    \bar{x} = \frac{\sum_{i=1}^n x_i}{n}
 
+
   **Mediana**
 
 Medidas de dispersión:
