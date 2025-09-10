@@ -7,14 +7,14 @@ Ejemplos:
 
 **1)**
 
-.. code::Python
+.. code:: Python
 
    def hola():
      print('hola como estas')
 
    hola()
 
-.. code::Python
+.. code:: Python
 
    def hola(var=''):
      print('hola como estas '+ var)
@@ -22,7 +22,7 @@ Ejemplos:
    hola('Pedro')
    hola('Maria')
 
-.. code::Python
+.. code:: Python
 
    def X2(x=0):
      return x**2
@@ -30,7 +30,7 @@ Ejemplos:
   X2(4)
   X2(8)
 
-.. code::Python
+.. code:: Python
 
    import math
    def Area_Per(radio=0):
