@@ -12,6 +12,8 @@ Clase-sep1025
 
 .. toctree::
 
+   clase-tupla
+   clase-lista
    estadistica
 
 
