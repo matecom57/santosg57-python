@@ -3,6 +3,7 @@ Clase-sep1025
 
    * clase lista
    * clase tupla
+   * funciones
    * Estadística
    * Prueba de Lateralidad
    * Media aritmética
@@ -14,6 +15,7 @@ Clase-sep1025
 
    clase-tupla
    clase-lista
+   funciones
    estadistica
 
 
