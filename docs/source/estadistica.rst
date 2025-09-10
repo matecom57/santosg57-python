@@ -3,30 +3,30 @@ Algunos conceptos de Estadística
 
 Medidas de tendencia central:
 
-**Media aritmética**
+  **Media aritmética**
 
-.. math:
+.. math::
 
    \bar{x} = \frac{\sum_{i=1}^n x_i}{n}
 
-**Mediana**
+  **Mediana**
 
 Medidas de dispersión:
 
-**Varianza**
+  **Varianza**
 
-.. math:
+.. math::
 
    var = \frac{\sum_{i=1}^n (x_i - \bar{x})^2}{n-1}
 
 **Medida de asimetría**
 
-.. math:
+.. math::
 
    sim =  \frac{\sum_{i=1}^n (x_i - \bar{x})^3/n}{s^3}
 
 **Medida de kurtosis**
 
-.. math:
+.. math::
 
    kur = \frac{\sum_{i=1}^n (x_i - \bar{x})^4/n}{s^4} - 3
