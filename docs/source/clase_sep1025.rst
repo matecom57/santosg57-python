@@ -9,3 +9,9 @@ Clase-sep1025
    * Varianza
    * Simetría de una Distribución
    * Medida de Kurtosis
+
+.. toctree::
+
+   estadistica
+
+
