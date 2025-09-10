@@ -31,5 +31,6 @@ Contenido
    calculo-diferencial-integral
    estructuras-control
    clase_sep0825
+   clase_sep1025
 
 
