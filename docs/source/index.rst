@@ -33,6 +33,8 @@ Contenido
    clase_sep0825
    clase_sep1025
    Monica
+   carlos
+   jose_alberto
    clase_sep1725
 
 
