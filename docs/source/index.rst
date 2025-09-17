@@ -32,5 +32,6 @@ Contenido
    estructuras-control
    clase_sep0825
    clase_sep1025
+   Estudiantes_tareas_2025/MonroyMM/Optativa-Python/Monica
 
 
