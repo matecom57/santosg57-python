@@ -12,4 +12,4 @@ Clase-sep2225
    clase-diccionario
    JupyterLab
    numpy
-
+   Matplotlib/plot
