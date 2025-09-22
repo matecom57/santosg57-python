@@ -1,7 +1,7 @@
 Crear Paginas WEB
 =================
 
-Dado el siguiente codigo, crear un archivo HTML, que pueda desplegar en pantalla un o varios archivo(s) PDF:
+Dado el siguiente codigo, crear un archivo HTML, que pueda desplegar en pantalla uno o varios archivo(s) PDF:
 
 .. code:: Bash
 
@@ -17,5 +17,17 @@ Dado el siguiente codigo, crear un archivo HTML, que pueda desplegar en pantalla
 
    </body>
   </html>
+
+Ayuda: 
+
+.. code:: Bash
+
+   <embed
+      src="CleanCode.pdf"
+      type="application/pdf"
+      width="100%"
+      height="600px"
+   />
+
 
 
