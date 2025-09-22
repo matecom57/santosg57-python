@@ -20,6 +20,6 @@ Tarea: Graficar la siguiente función en el intervalo [-5,5]
 
 .. tex::
 
-   \fi_{\mu, \sigma^2}(x) = \frac{1}{\sigma \sqrt{2 \pi}} e^{-\fra{(x-\mu)^2}{2 \sigma^2} }
+   \varphi_{\mu, \sigma^2}(x) = \frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{(x-\mu)^2}{2 \sigma^2} }
 
 
