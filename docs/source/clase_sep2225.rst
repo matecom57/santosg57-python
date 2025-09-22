@@ -11,4 +11,5 @@ Clase-sep2225
    paginas_web
    clase-diccionario
    JupyterLab
+   numpy
 
