@@ -34,5 +34,6 @@ Contenido
    clase_sep1025
    clase_sep1725
    clase_sep2225
+   clase_sep2925
 
 
