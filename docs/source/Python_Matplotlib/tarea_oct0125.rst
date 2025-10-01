@@ -11,3 +11,20 @@ Hacer las graficas de las siguientes figuras, y meter los programas en git antes
 
 .. image:: i02.png
 
+**Fig. C**
+
+.. image:: i03.png
+
+**Fig. D**
+
+.. image:: i04.png
+
+**Fig. E**
+
+.. image:: i05.png
+
+**Fig. F**
+
+.. image:: i06.png
+
+
