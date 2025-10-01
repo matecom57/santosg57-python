@@ -3,6 +3,8 @@ matplotlib.pyplot
 
 **E01**
 
+.. code:: Python
+
    import matplotlib.pyplot as plt
    import numpy as np
 
