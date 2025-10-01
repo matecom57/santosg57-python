@@ -11,8 +11,8 @@ matplotlib-pyplot
    x = np.linspace(0, 2*np.pi, 300)
    y = np.cos(x)
 
-   np.plot(x,y)
-   np.show()
+   plt.plot(x,y)
+   plt.show()
 
 **E02**
 
