@@ -1,4 +1,4 @@
-matplotlib.pyplot
+matplotlib-pyplot
 =================
 
 **E01**
