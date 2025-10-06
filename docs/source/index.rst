@@ -37,4 +37,4 @@ Contenido
    clase_sep2925
    JupyterLab
    clase_oct0125
-
+   clase_oct0625
