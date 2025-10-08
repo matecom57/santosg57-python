@@ -30,6 +30,6 @@ print(xy.shape)
 
 plt.plot(x,y)
 plt.plot(y,x)
-
+plt.plot(xyN[:,0], xyN[:,1])
 plt.show()
 
