@@ -38,3 +38,5 @@ Contenido
    JupyterLab
    clase_oct0125
    clase_oct0625
+   clase_oct0825
+
