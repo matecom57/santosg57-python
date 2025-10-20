@@ -1,11 +1,12 @@
-Clase-oct1525
+Clase-oct2025
 =============
 
 .. toctree::
 
-   clase-oct0825
+Ejemplo 1. Pandas
 
-Ejemplo con pandas:
+
+Ejemplo 2. Pandas 
 -------------------
 
 * 1. Crear un archivo en formato CSV con las variables, NOMBRE, SEXO, EDAD y PESO  de longitud 20 cada una de ellas con las siguientes características.
