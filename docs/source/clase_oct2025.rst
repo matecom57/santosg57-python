@@ -17,3 +17,6 @@ Ejemplo 2. Pandas
 
 A partir del archivo "iris.csv" hacer graficos de interés.
 
+Introducción a Tkinter
+----------------------
+
