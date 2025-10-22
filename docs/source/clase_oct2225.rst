@@ -9,6 +9,13 @@ Clase-oct2225
    root = tkinter.Tk()
    tkinter.mainloop()
 
+Convertir archivi jupyter a python
+
+* pip install nbconvert
+
+.. code:: Python
+
+   jupyter nbconvert --to python notebook.ipynb 
 
 * Lee imágenes de Resonancia Magnética Estructurales
 
