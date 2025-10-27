@@ -1,4 +1,4 @@
-Problemas para hoy, oct2725
+Problemas para hoy: oct2725
 ===========================
 
 
