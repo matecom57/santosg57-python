@@ -43,6 +43,6 @@ Contenido
    clase_oct2025
    clase_oct2225
    "clase hoy"
-   nifti
+   1. nifti
    tkinter
 
