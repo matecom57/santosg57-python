@@ -43,4 +43,5 @@ Contenido
    clase_oct2025
    clase_oct2225
    nifti
+   tkinter
 
