@@ -25,7 +25,7 @@ Sistemas de Numeración
 
 Un vector esta dado por:
 
-.. math:
+.. math::
 
    (x_1, x_2, ..., x_n)
 
@@ -57,4 +57,10 @@ Se define una matriz como:
     ... & ... & ... & ... \\
     a_{m1} & a_{m2} & ...  & a_{mn}  \\
    \end{pmatrix}
+
+Donde :math:`a_{ij} \in \mathbb{R}` con i=1,...,m y j=1,...,n
+
+Decimos que la matriz es de tamaño :math:`m \times n`, m filas y n columnas.
+
+
 
