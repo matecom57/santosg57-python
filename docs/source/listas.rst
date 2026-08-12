@@ -17,6 +17,31 @@ Una lista es una estructura de datos definida por corchetes [ ].
 
    k = ['Juan', [20, 80]]
 
+**Operaciones en Listas**
+
+.. code:: Python
+
+   x = [2,1,3]
+   y = [4,3,4]
+
+   x+y
+
+   2*x
+
+   x^2
+
+   len(x)
+
+   x[1]
+
+   x[-1]
+
+   x = [1,2,2,3,4,2,3,5,4]
+
+   x == 3
+
+   x > 3
+
 **Algunos métodos:**
 
 ``append``, ``clear``, ``copy``, ``count``, ``index``, ``insert``, ``pop``, ``remove``, ``sort``
@@ -35,8 +60,31 @@ Una lista es una estructura de datos definida por corchetes [ ].
 
    sujeto2 = sujeto.copy()
 
-   sujeto.count()
+   sujeto.insert(1, 'Gonzalez')
 
-   i = sujeto.index('80')
+   sujeto.remove('Maria')
 
-   sujeto
+   sujeto.pop()
+
+   sujeto.sort()
+
+.. code:: Python
+
+   texto = ["B", "B", "C", "A", "A", "A", "B",
+   "C", "A", "B", "A", "B", "B", "A",
+   "A", "B", "A", "B", "C", "A", "A",
+   "A", "C", "B", "A", "B", "A", "A",
+   "B", "A", "A", "C", "A", "B", "C",
+   "C", "B", "A", "C", "A", "A", "A",
+   "A", "A", "A", "B", "A", "B", "A",
+   "B"]
+
+   texto.count('A')
+
+   i = texto.index('and')
+
+   len(texto)
+
+   texto.sort()
+
+   texto.index('C')
