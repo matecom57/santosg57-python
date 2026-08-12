@@ -14,6 +14,7 @@ Contenido
 ----------
 
 .. toctree::
+   :maxdepth: 2
 
    tiempos_recordar/tiempos_recordar
    poo/poo
@@ -28,6 +29,7 @@ Clase02-ago1226
 ---------------
 
 .. toctree::   
+   :maxdepth: 2
 
    listas
    math
