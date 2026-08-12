@@ -29,5 +29,5 @@ Clase02 -ago1226
 .. toctree::   
 
    listas
-    math
-
+   math
+   str
