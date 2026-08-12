@@ -23,3 +23,10 @@ Contenido
    bibliografia/bibliografia
    software
    conceptos_matematicos
+   
+Clase02 -ago1226
+   
+.. toctree::   
+
+   listas
+
