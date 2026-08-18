@@ -34,3 +34,21 @@ Clase02-ago1226
    listas
    math
    str
+
+Clase02-ago1826
+---------------
+
+.. toctree::
+   :maxdepth: 2 
+
+   estructuras-control.rst
+
+* Instalar Jupyter: https://jupyter.org/install
+
+* Una vez instalado, inicia JupyterLab con:
+
+.. code:: Python
+
+   jupyter lab
+
+ 
