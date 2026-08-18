@@ -35,7 +35,7 @@ Clase02-ago1226
    math
    str
 
-Clase02-ago1826
+Clase03-ago1826
 ---------------
 
 .. toctree::
@@ -43,9 +43,9 @@ Clase02-ago1826
 
    estructuras-control.rst
 
-* Instalar Jupyter: https://jupyter.org/install
+* Instalar **Jupyter**: https://jupyter.org/install
 
-* Una vez instalado, inicia JupyterLab con:
+* Una vez instalado, inicia **JupyterLab** con:
 
 .. code:: Python
 
