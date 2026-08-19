@@ -59,7 +59,7 @@ Instalacion de ``jupyter lab``:
 
 	1) python --version
 
-	2) python -m ensurepip --default-pip
+	2) python -m ensurepip - -default-pip
 
 	3) pip install jupyterlab
 
