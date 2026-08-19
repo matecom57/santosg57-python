@@ -41,7 +41,7 @@ Clase03-ago1826
 .. toctree::
    :maxdepth: 2 
 
-   estructuras-control.rst
+   estructuras-control
 
 * Instalar **Jupyter**: https://jupyter.org/install
 
@@ -52,3 +52,21 @@ Clase03-ago1826
    jupyter lab
 
  
+Clase03-ago1826
+---------------
+
+Instalacion de ``jupyter lab```:
+
+	1) python --version
+
+	2) python -m ensurepip --default-pip
+
+	3) pip install jupyterlab
+
+	4) python -m jupyter lab
+
+
+.. toctree::
+   :maxdepth: 2
+
+   ejercicios_ago1926
