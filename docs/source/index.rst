@@ -52,10 +52,10 @@ Clase03-ago1826
    jupyter lab
 
  
-Clase03-ago1826
+Clase04-ago1926
 ---------------
 
-Instalacion de ``jupyter lab```:
+Instalacion de ``jupyter lab``:
 
 	1) python --version
 
