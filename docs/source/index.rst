@@ -70,3 +70,13 @@ Instalacion de ``jupyter lab``:
    :maxdepth: 2
 
    ejercicios_ago1926
+
+Clase05-ago2426
+---------------
+
+.. toctree::
+   :maxdepth: 2
+
+   clase-turtle
+   l-sistema
+
