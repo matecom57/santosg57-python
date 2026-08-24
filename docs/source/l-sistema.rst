@@ -26,5 +26,9 @@ Aquí,
 * **-** significa "girar 90° a la derecha" 
 
 
+Referencias:
+
+1. https://en.wikipedia.org/wiki/L-system
+
 
 
