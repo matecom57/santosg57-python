@@ -80,3 +80,16 @@ Clase05-ago2426
    clase-turtle
    l-sistema
    github
+
+Clase06-ago3126
+---------------
+
+.. toctree::
+   :maxdepth: 2
+
+   lectura-datos
+   JupyterLab
+   clase-diccionario
+   clase-random
+   
+
