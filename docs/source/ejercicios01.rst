@@ -19,9 +19,7 @@ Hacer los siguientes ejercicios, y meter programas y resultados en la plataforma
 
 8. Encontrar el área de un triangulo cuyos vertices son p1(2,2), p2(3,4) y p3(1, 5).
 
-9. Responder si un número es par o impar.
-
-Utilice el codigo:
+9. Responder si un número es par o impar. Utilice el codigo:
 
 .. code:: Python
 
