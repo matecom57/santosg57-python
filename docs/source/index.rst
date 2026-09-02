@@ -92,4 +92,11 @@ Clase06-ago3126
    clase-diccionario
    clase-random
    
+Clase06-sep0226
+---------------
+
+.. toctree::
+   :maxdepth: 2
+
+   ejercicios01
 
