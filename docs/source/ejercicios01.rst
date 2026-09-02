@@ -21,3 +21,10 @@ Hacer los siguientes ejercicios, y meter programas y resultados en la plataforma
 
 9. Responder si un número es par o impar.
 
+Utilice el codigo:
+
+.. code:: Python
+
+   nombre = input("¿Cómo te llamas? ")
+   print(f"Hola, {nombre}")
+
