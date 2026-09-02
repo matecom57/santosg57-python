@@ -13,11 +13,11 @@ Hacer los siguientes ejercicios, y meter programas y resultados en la plataforma
 
 5. Calcular la distancia entre los puntos p1(1,2) y p2(5,7).
 
-7. Convertir 60 grados Fahrenheit a grados Celsius.
+6. Convertir 60 grados Fahrenheit a grados Celsius.
 
-8. Convertir 60 grados Celsius a grados Fahrenheit.
+7. Convertir 60 grados Celsius a grados Fahrenheit.
 
-9. Encontrar el área de un triangulo cuyos vertices son p1(2,2), p2(3,4) y p3(1, 5).
+8. Encontrar el área de un triangulo cuyos vertices son p1(2,2), p2(3,4) y p3(1, 5).
 
-10. Responder si un número es par o impar.
+9. Responder si un número es par o impar.
 
