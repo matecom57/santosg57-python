@@ -11,31 +11,16 @@ Clase random
 
 * ``choice(seq)`` -  Choose a random element from a non-empty sequence.
 
-**Ayuda**
+* ``choices(population, weights=None, *, cum_weights=None, k=1)``- Return a k sized 
+list of population elements chosen with replacement. If the relative weights or 
+cumulative weights are not specified, the selections are made with equal probability.
 
-.. code:: Bash
+* ``gauss(mu=0.0, sigma=1.0)`` -  Gaussian distribution. **mu** is the mean, and 
+**sigma** is the standard deviation.
 
-   choice(seq) method of random.Random instance
-	       Choose a random element from a non-empty sequence.
+* ``randint(a, b)`` -  Return random integer in range [a, b], including both end points.
 
-   choices(population, weights=None, *, cum_weights=None, k=1) method of random.Random instance
-       Return a k sized list of population elements chosen with replacement.
-       If the relative weights or cumulative weights are not specified,
-          the selections are made with equal probability.
-
-   gauss(mu=0.0, sigma=1.0) method of random.Random instance
-       Gaussian distribution.
-       mu is the mean, and sigma is the standard deviation.  This is
-       slightly faster than the normalvariate() function.
-
-   randint(a, b) method of random.Random instance
-       Return random integer in range [a, b], including both end points.
-
-   randint(a, b) method of random.Random instance
-       Return random integer in range [a, b], including both end points.
-
-   sample(population, k, *, counts=None) method of random.Random instance
-       Chooses k unique random elements from a population sequence.
+* ``sample(population, k, *, counts=None)`` -  Chooses k unique random elements from a population sequence.
        Returns a new list containing elements from the population while
        leaving the original population unchanged.  The resulting list is
        in selection order so that all sub-slices will also be valid random
@@ -50,9 +35,7 @@ Clase random
 
            sample(['red', 'blue'], counts=[4, 2], k=5)
 
-   uniform(a, b) method of random.Random instance
-       Get a random number in the range [a, b) or [a, b] depending on rounding.
-
+* ``uniform(a, b)`` - Get a random number in the range [a, b) or [a, b] depending on rounding.
 
 
 **Algunos métodos y ejemplos:**
