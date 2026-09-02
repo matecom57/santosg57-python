@@ -3,9 +3,9 @@ EJERCICIOS-01
 
 Hacer los siguientes ejercicios, y meter programas y resultados en la plataforma github.
 
-1. Calcular el volúmen de una esfera cuyo radio es de 5 cm.
+1. Calcular el volumen de una esfera cuyo radio es de 5 cm.
 
-2. Calcular el volúmen de un cilindro cuya altura es de 50 cm y radio es de 5cm.
+2. Calcular el volumen de un cilindro cuya altura es de 50 cm y radio es de 5cm.
 
 3. Covertir el número 777 a número binario.
 
