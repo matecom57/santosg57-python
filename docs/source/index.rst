@@ -100,3 +100,12 @@ Clase06-sep0226
 
    ejercicios01
 
+ClaseXX-sep0726
+
+.. toctree::
+   :maxdepth: 2
+
+   tarea_sep0727
+   modulos
+
+
