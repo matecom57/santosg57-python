@@ -111,7 +111,6 @@ ClaseXX-sep0726
    clase_sep0926/index2
 
    Python_Analisis_Imagenes_oct2221/Analis_imagen
-
    clase_numpy/index_numpy
    clase_matplotlib/index_matplotlib
    estadistica/index_estadistica
