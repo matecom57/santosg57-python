@@ -1,11 +1,6 @@
 Módulo Numpy
 ============
 
-.. toctree::
-
-   modulo_numpy
-   dir_numpy
-   help_numpy
-   ejemplos_numpy
-
+Numpy es una biblioteca que tiene un conjunto grande de funciones que se aplican principalmente a las estructuras:
+vector, matriz y arreglo.
 
