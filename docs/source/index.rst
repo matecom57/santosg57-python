@@ -24,92 +24,22 @@ Contenido
    bibliografia/bibliografia
    software
    conceptos_matematicos
-   
-Clase02-ago1226
----------------
-
-.. toctree::   
-   :maxdepth: 2
-
    listas
    math
    str
-
-Clase03-ago1826
----------------
-
-.. toctree::
-   :maxdepth: 2 
-
    estructuras-control
-
-* Instalar **Jupyter**: https://jupyter.org/install
-
-* Una vez instalado, inicia **JupyterLab** con:
-
-.. code:: Python
-
    jupyter lab
-
- 
-Clase04-ago1926
----------------
-
-Instalacion de ``jupyter lab``:
-
-	1) python --version
-
-	2) python -m ensurepip - -default-pip
-
-	3) pip install jupyterlab
-
-	4) python -m jupyter lab
-
-
-.. toctree::
-   :maxdepth: 2
-
    ejercicios_ago1926
-
-Clase05-ago2426
----------------
-
-.. toctree::
-   :maxdepth: 2
-
    clase-turtle
    l-sistema
    github
-
-Clase06-ago3126
----------------
-
-.. toctree::
-   :maxdepth: 2
-
    lectura-datos
    JupyterLab
    clase-diccionario
    clase-random
-   
-Clase06-sep0226
----------------
-
-.. toctree::
-   :maxdepth: 2
-
    ejercicios01
-
-ClaseXX-sep0726
-
-.. toctree::
-   :maxdepth: 2
-
    tarea_sep0727
    modulos
-
-   clase_sep0926/index2
-
    Python_Analisis_Imagenes_oct2221/Analis_imagen
    clase_numpy/index_numpy
 
