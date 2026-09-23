@@ -42,5 +42,6 @@ Contenido
    modulos
    Python_Analisis_Imagenes_oct2221/Analis_imagen
    clase_numpy/index_numpy
+   daniel/daniel.rst
 
 
