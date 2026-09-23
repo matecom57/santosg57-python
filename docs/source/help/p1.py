@@ -1,9 +1,13 @@
 import math
 
-s = []
+s = dict()
 
-#print(dir(s))
+dic = ['clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values']
 
-print(dir(math))
+for ss in dic:
+  print('%%%%%%%%%%%%%%%%%%%%%%%%%%%% '+ss)
+  print(help(eval('s.'+ss)))
+
+
 
 
