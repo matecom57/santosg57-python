@@ -16,7 +16,6 @@ Contenido
 .. toctree::
    :maxdepth: 2
 
-   clase_numpy/index_numpy
-   daniel/daniel.rst
+   math
 
 
