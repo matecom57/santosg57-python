@@ -20,6 +20,7 @@ Contenido
    numpy/Imagenes/imagenes
    numpy_help
    matplotlyb
+   daniel/daniel.rst 
    ejercicio_01
 
 
