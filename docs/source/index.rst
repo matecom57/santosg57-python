@@ -16,6 +16,10 @@ Contenido
 .. toctree::
    :maxdepth: 2
 
-   math
+   funciones
+   numpy/Imagenes/imagenes
+   numpy_help
+   matplotlyb
+   ejercicio_01
 
 
