@@ -1,9 +1,6 @@
 Análisis de Imágenes
 ====================
 
-Contenido
-----------
-
 .. toctree::
    :maxdepth: 2
 
