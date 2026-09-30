@@ -1,0 +1,39 @@
+Probabilidad y Estadística
+==========================
+
+**Libro de referencia para ejercicios**
+
+.. image:: dani01.png
+
+**Ejemplo 1.4.1**
+
+Gold et al. (A-1) estudiaron la eficacia del bupropión de liberación sostenida (SR), un parche de nicotina o ambos para dejar de 
+fumar, cuando se administraban conjuntamente con terapia cognitivo-conductual. Pacientes consecutivos que dieron su consentimiento 
+eligieron uno de los tres tratamientos. A modo de ejemplo, consideremos que todos estos sujetos constituyen una población de tamaño 
+N = 189. Deseamos seleccionar una muestra aleatoria simple de tamaño 10 de esta población, cuyas edades se presentan en la Tabla 
+1.4.1.
+
+A partir de los datos generar las siguientes figuras:
+
+.. image:: tabla_1_4_3.png
+
+
+**Frecuencias Relativas**
+
+.. image:: tabla_2_3_2.png
+
+**Histograma**
+
+.. image:: tabla_2_3_3.png
+
+**Polígono de Frecuencias**
+
+.. image:: figura_2_3_4.png
+
+**Diagramas de tallo y hojas**
+
+.. image:: tallo_hojas.png
+
+
+
+
