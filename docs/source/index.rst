@@ -22,5 +22,6 @@ Contenido
    matplotlyb
    daniel/daniel.rst 
    ejercicio_01
+   Python_Analisis_Imagenes/index_imagenes
 
 
