@@ -23,5 +23,6 @@ Contenido
    daniel/daniel.rst 
    ejercicio_01
    Python_Analisis_Imagenes/index_imagenes
+   daniel/index_estadistica
 
 
