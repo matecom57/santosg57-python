@@ -14,7 +14,7 @@ Contenido
 ----------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    funciones
    numpy/Imagenes/imagenes
