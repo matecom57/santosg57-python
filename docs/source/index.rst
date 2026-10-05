@@ -25,5 +25,6 @@ Contenido
    Python_Analisis_Imagenes/index_imagenes
    daniel/index_estadistica
    pandas/pandas.rst
+   regresion/regresion_lineal
 
 
