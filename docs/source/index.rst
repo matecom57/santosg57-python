@@ -27,5 +27,8 @@ Contenido
    pandas/pandas.rst
    regresion/regresion_lineal
    Imagenes/imagenes
+   ubuntu_windows
+   funciones_curso
+   ejercicio_calculo_de_probabilidades
 
 
