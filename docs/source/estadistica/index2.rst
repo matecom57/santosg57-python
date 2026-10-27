@@ -3,6 +3,7 @@ Estadística
 
 
 .. toctree::
+   :maxdepth: 1
 
    distribucion_normal
    clase_pruebas_estadisticas
