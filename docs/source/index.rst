@@ -33,6 +33,9 @@ Contenido
 
 Clase-oct2726
 ----------     
+
+.. toctree::
+   :maxdepth: 1
    
-estadistica/index2
+   estadistica/index2
 
