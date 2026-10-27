@@ -31,9 +31,11 @@ Contenido
    funciones_curso
    ejercicio_calculo_de_probabilidades
 
-Contenido
+Clase-oct2726
 ----------     
    
 .. toctree:: 
    :maxdepth: 1
+
+   estadistica/index2
 
