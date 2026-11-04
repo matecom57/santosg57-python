@@ -37,6 +37,7 @@ Clase-oct2726
 .. toctree::
    :maxdepth: 1
 
+   biostatistics_daniel
    estadistica/index2
    Python_Tkinter/tkinter
 
