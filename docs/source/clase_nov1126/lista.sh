@@ -1,9 +1,7 @@
 #!/bin/bash
 
-pat="/Users/santosg/Python/source/Python_Tkinter"
+pat="/Users/santosg/Python/source/Edinburgh"
 
-mkdir tkinter
+cp -r  $pat .
 
-cp -r $pat/*.rst tkinter/.
 
-#mv  /Users/santosg/Python/source/Las_curvas_mas_bellas .

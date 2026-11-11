@@ -40,4 +40,5 @@ Clase-oct2726
    biostatistics_daniel
    estadistica/index2
    Python_Tkinter/tkinter
+   clase_nov1126/index3
 
