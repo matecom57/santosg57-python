@@ -41,4 +41,6 @@ Clase-oct2726
    estadistica/index2
    Python_Tkinter/tkinter
    clase_nov1126/index3
+   clase_nov1826/index2
+
 
