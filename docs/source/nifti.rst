@@ -1,39 +1,70 @@
-Manejo de imágenes de Resonancia Magnética
-===========================================
+Nifti
+==========
 
-**Manejo de ambientes con:**  ``conda``
+El formato NIfTI (Neuroimaging Informatics Technology Initiative) es un formato de archivo estándar utilizado para almacenar imágenes 
+médicas multidimensionales, especialmente en neuroimagen y resonancia magnética (RM).
 
-* conda env list
 
-* conda create -n test_env python=3.10
+**Características principales**
 
-* conda activate test_env
+• Extensiones: Suele guardarse como un único archivo con extensión .nii (que incluye cabecera y datos) o comprimido como .nii.gz. También admite el par .hdr (metadatos) y .img (datos de imagen).
 
-* conda deactivate
+• Dimensiones: Soporta volúmenes 3D (espacio: x, y, z) y series temporales 4D (espacio más tiempo: t), además de dimensiones adicionales para datos especializados.
 
-**Instalación de módulo:** ``nibabel``
+• Orientación clara: Corrige limitaciones del antiguo formato Analyze al definir mejor la orientación espacial y reducir la ambigüedad izquierda-derecha.
 
-.. code:: Python
 
-   pip install nibabel
+**Ejemplos de lectura de este tipo de formato**
 
-**Ejercicio.**
-
-1. Bajar datos de ``dropbox`` : `datos <https://www.dropbox.com/scl/fo/kp0z1x0bmb3oyi42ts2ub/AL99WBdVuNk6pyTTuEXwbpo?rlkey=b5wo8xtv09qkg67nu25i6cx9z&st=78qg8rhu&dl=0>`_
-
-2. Listo las primeras instrucciones para leer la imagen de resonancia magnética..
+**1)**
 
 .. code:: Python
 
    import nibabel as nib
    import matplotlib.pyplot as plt
-   import numpy as np
 
-   # Load a NIfTI file
+   pat = '/Users/santosg/Datos_Nifti/'
+
+   img = nib.load(pat+'sub-01_T1w.nii.gz')
+
+   datos = img.get_fdata()
+
+   print(datos.shape)
+
+   imgS = datos[:,:,50]
+   imgA = datos[:,100,:]
+   img = datos[100,:,:]
+
+   plt.imshow(img, cmap='gray')
+   plt.show()
+
+**2)**
+
+.. code:: Python
    
-   nifti_img = nib.load('sub-01_T1w.nii.gz')
+   import glob
+   import nibabel as nib
+   import matplotlib.pyplot as plt
 
-3. Hacer lo que hay que hacer.
+   pat = '/Users/santosg/Datos_Nifti/'
 
+   img = nib.load(pat+'sub-01_T1w.nii.gz')
+
+   datos = img.get_fdata()
+
+   dd = datos.shape
+
+   # nz = dd[2] axial
+   ny =  dd[1]
+
+   for i in range(ny):
+     img = datos[:,i,:]
+
+     plt.imshow(img, cmap='gray')
+     plt.pause(0.2)
+     print(i)
+
+   plt.ioff()
+   plt.show()
 
 
