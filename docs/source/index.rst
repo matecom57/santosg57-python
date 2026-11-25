@@ -42,6 +42,7 @@ Clase-oct2726
    Python_Tkinter/tkinter
    clase_nov1126/index3
    clase_nov1826/index2
-   nifti.rst
    seaborn_ejemplos.rst
+   nifti/index2.rst
+   esatdistica2/index2.rst
 
